@@ -36,7 +36,7 @@ const Feedbacks = () => {
       >
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>What I'm gonna Do</p>
-          <h2 className={styles.sectionHeadText}>Future Goals.</h2>
+          <h2 className={styles.sectionHeadText}>Future Goals</h2>
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>

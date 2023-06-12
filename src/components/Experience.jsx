@@ -64,7 +64,7 @@ const Experience = () => {
         From the beginning until this very moment
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          The Journey of a Designer.
+          The Journey of a Designer
         </h2>
       </motion.div>
 

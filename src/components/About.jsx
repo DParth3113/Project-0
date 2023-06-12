@@ -40,14 +40,14 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a talented web designer with a strong focus on ReactJS and a passion for learning ThreeJS, enabling them to create visually appealing and highly functional websites. With expertise in UI/UX principles and a dedication to staying at the forefront of web design trends, I brings creativity, technical proficiency, and a keen eye for detail to every project I undertake.
+       I possess exceptional skills as a web designer, specializing in ReactJS and driven by a deep desire to acquire knowledge in ThreeJS. This combination allows me to craft visually captivating and remarkably efficient websites. My expertise in UI/UX principles, along with an unwavering commitment to staying up-to-date with the latest web design trends, enables me to infuse creativity, technical prowess, and meticulous attention to detail into each project I embark upon.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

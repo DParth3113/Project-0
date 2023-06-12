@@ -176,7 +176,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "My third goal is to build my own company. Once I have gained experience and expertise through working with reputable organizations",
+      "My third goal is to build my own company. Once I have gained experience and expertise through working with reputable organizations.",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -188,7 +188,7 @@ const projects = [
   {
     name: "Shopty",
     description:
-      "Shopty.in is an e-commerce website that serves as an online store specializing in customized t-shirts.A platform where users can browse through a wide range of t-shirt designs, customize them with their preferred colors, patterns, and texts, and make purchases seamlessly.",
+      "Shopty.in is an e-commerce website that serves as an online store specializing in customized t-shirts. A platform where users can browse through a wide range of t-shirt designs, customize them with their preferred colors, patterns, and texts, and make purchases seamlessly.",
     tags: [
       {
         name: "react",
@@ -229,7 +229,7 @@ const projects = [
   {
     name: "Old one ",
     description:
-      "Welcome to my old portfolio website! This project was created using HTML, CSS, and ReactJS, and it served as a showcase of my skills, experience, and projects.The design of the portfolio was built using HTML and CSS, allowing me to create a visually appealing and user-friendly interface.",
+      "Welcome to my old portfolio website! This project was created using HTML, CSS, and ReactJS, and it served as a showcase of my skills, experience, and projects. The design of the portfolio was built using HTML and CSS, allowing me to create a visually appealing and user-friendly interface.",
     tags: [
       {
         name: "html",
